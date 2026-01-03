@@ -4,5 +4,3 @@
 npm install
 npm start
 ```
-
-# the-feast
